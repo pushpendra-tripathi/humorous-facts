@@ -1,2 +1,8 @@
 # humorous-facts
-This is python script uses Chuck Norris API and presents some mood refreshing humorous jokes.
+This program uses Chuck Norris API to produce humorous jokes.
+
+Program includes simple console based ui which provides the options and take numerical input for option selection.
+
+Two type of options:
+1> For random jokes from any category.
+2> For category wise jokes.
